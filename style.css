@@ -1,0 +1,43 @@
+body{
+    /* font-family: monospace; */
+    font-family: 'Handlee', cursive;
+}
+h1{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+button{
+    font-family: 'Handlee', cursive;
+    font-weight: bold;
+    font-size: medium;
+    background-color: black;
+    margin-top: 2%;
+    color: white;
+    
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+}
+
+.container{ 
+    height: 200px;
+    position: relative;
+    
+   
+}
+.recipes {
+   display: inline-block;
+    margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+  }
