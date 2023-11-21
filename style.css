@@ -1,6 +1,10 @@
+@font-face {
+    font-family: Handlee;
+    src: url(./Handlee-Regular.ttf);
+}
+
 body{
-    /* font-family: monospace; */
-    font-family: 'Handlee', cursive;
+    font-family: Handlee;
 }
 h1{
     text-align: center;
